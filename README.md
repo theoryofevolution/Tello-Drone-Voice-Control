@@ -6,4 +6,6 @@ Requirements:
 - djitellopy
 - speech_recognition
 
-Thank you for using this.
+Thank you for using my project!
+
+Please cite me if you use this.
